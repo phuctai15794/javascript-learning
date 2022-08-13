@@ -1,0 +1,29 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "name": "Tailwind css và cách cài đặt cơ bản",
+        "description": "Bạn đang lo lắng vì đặt tên class, sợ bị trùng css không mong muốn, hay muốn một framework hỗ trợ css dễ học mà dễ tùy biến theo ý thích đã có tailwind css."
+      },
+      {
+        "id": 2,
+        "name": "Cấu trúc cơ bản trong HTML",
+        "description": "Trắc hẳn ai cũng biết một trang web thì không thể nào thiếu đi HTML và HTML làm nên cấu trúc của một trang web, như bài viết các bạn đang đọc bài viết này thì cũng được viết bằng html."
+      },
+      {
+        "name": "Bốn nguyên tắc khi học code",
+        "description": "Theo mentor FUNiX Cao Văn Việt, sinh viên nên thực hành nhiều, làm dự án, làm việc nhóm và nắm chắc một ngôn ngữ hơn là học nhiều mà dàn trải.",
+        "id": 3
+      },
+      {
+        "name": "TyperScript là gì, Vì sao nên dùng TyperScript",
+        "description": "Typescript là một dự án mã nguồn mở được Microsoft phát triển, được xem là một phiên bản nâng cao của Javascript.",
+        "id": 4
+      },
+      {
+        "name": "Bốn nguyên tắc khi học code",
+        "description": "Theo mentor FUNiX Cao Văn Việt, sinh viên nên thực hành nhiều, làm dự án, làm việc nhóm và nắm chắc một ngôn ngữ hơn là học nhiều mà dàn trải.",
+        "id": 5
+      }
+    ]
+  }

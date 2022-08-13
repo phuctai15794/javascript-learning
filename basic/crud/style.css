@@ -1,0 +1,8 @@
+body{font-family:Cambria,Cochin,Georgia,Times,"Times New Roman",serif;font-size:14px;margin:0;padding:0}
+.block{padding:0 2rem;margin-top:3rem}
+.title{margin-top:0;text-transform:capitalize}
+.courses__list{padding-left:15px;margin:0;list-style:decimal}
+.courses__list li.courses__list__item{margin-bottom:1rem}
+.courses__list li.courses__list__item:last-child{margin-bottom:0}
+.courses__list li.courses__list__item h4{margin-top:0;margin-bottom:.75rem}
+.courses__list li.courses__list__item p{margin-top:0;margin-bottom:.5rem}

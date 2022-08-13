@@ -1,0 +1,14 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "name": "Thời gian và Động lực",
+            "description": "Chắc hẳn nhiều người sẽ thắc mắc tại sao tôi là sinh viên mà lại lâu rồi chưa đụng đến cái mà sinh viên đều gọi là thời khóa biểu."
+        },
+        {
+            "id": 2,
+            "name": "Tailwind css và cách cài đặt cơ bản",
+            "description": "Tailwind css là một utility-first CSS framework nó hỗ trợ phát triển xây dựng nhanh chóng giao diện người dùng, nó cũng có điểm chung giống như Bootstrap & điểm làm nó nổi bật hơn cả đó là chúng ta có thể tùy biến phát triển css theo cách mà chúng ta định nghĩa ra."
+        }
+    ]
+}
